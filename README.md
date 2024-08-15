@@ -2,6 +2,10 @@
 
 #### .NET Developer | React Enthusiast | ASP.NET Specialist | Lifelong Learner
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt8z0x4Z9XPkRkU/giphy.gif" width="600" alt="Introduction GIF">
+</p>
+
 I’m a passionate .NET developer with expertise in ASP.NET, ADO.NET, Windows Services, and SQL Server. I thrive on building modern and dynamic web applications. Currently, I'm expanding my portfolio with a [Blood Bank Website](#current-project) that integrates ASP.NET Core with SQL Server.
 
 ---
@@ -13,14 +17,14 @@ I’m a passionate .NET developer with expertise in ASP.NET, ADO.NET, Windows Se
 ---
 
 ### 💻 Tech Stack:
-  
+
 <p align="center">
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Badge" />
   <img src="https://img.shields.io/badge/ADO.NET-2563eb?style=for-the-badge&logo=csharp&logoColor=white" alt="ADO.NET Badge" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge" />
   <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge" />
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio Badge" />
 </p>
 
@@ -38,9 +42,6 @@ I’m a passionate .NET developer with expertise in ASP.NET, ADO.NET, Windows Se
   </a>
   <a href="https://www.instagram.com/chirag.bhoyar14?igsh=MW96azRncHh5dHh5aQ==">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
-  <a href="mailto:chirag.bhoyar@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
 </p>
 
