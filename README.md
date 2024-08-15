@@ -6,7 +6,7 @@ I’m a passionate .NET developer with a focus on ASP.NET, ADO.NET, Windows Serv
 
 ### 🌐 Connect with me:
 
-[![LinkedIn](https://www.linkedin.com/in/chirag-bhoyar-725747286/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-bhoyar-725747286/)
 
 ### 🛠 Tech Stack:
 - **Backend:** ASP.NET | ADO.NET | C#
@@ -28,5 +28,5 @@ I'm always open to collaborating on interesting projects, especially those relat
 
 ---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
