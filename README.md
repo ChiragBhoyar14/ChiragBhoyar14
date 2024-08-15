@@ -2,7 +2,7 @@
 
 #### .NET Developer | React Enthusiast | ASP.NET Specialist | Lifelong Learner
 
-I’m a passionate .NET developer with expertise in ASP.NET, ADO.NET, Windows Services, and SQL Server. I thrive on building modern and dynamic web applications. Currently, I'm expanding my portfolio with a [Blood Bank Website](#current-project) that integrates ASP.NET Core with SQL Server.
+I’m a passionate .NET developer with expertise in ASP.NET, ADO.NET, Windows Services, and SQL Server. I thrive on building modern and dynamic web applications. Currently, I'm expanding my portfolio with a Blood Bank Website that integrates ASP.NET Core with SQL Server.
 
 ---
 
