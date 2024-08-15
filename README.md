@@ -7,13 +7,17 @@ I’m a passionate .NET developer with a focus on ASP.NET, ADO.NET, Windows Serv
 ### 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-bhoyar-725747286/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chirag.bhoyar14?igsh=MW96azRncHh5dHh5aQ==)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+</p>
 
 ### 🛠 Tech Stack:
 - **Backend:** ASP.NET | ADO.NET | C#
 - **Frontend:** React.js | HTML | CSS | JavaScript
 - **Databases:** SQL Server | MySQL
 - **Tools:** Visual Studio | Git | Docker
-- **Other Interests:** Framer Motion | UI/UX Design | DevOps
 
 ### 🚀 Current Project
 - Blood Bank Website – ASP.NET Core, SQL Server
@@ -28,5 +32,11 @@ I'm always open to collaborating on interesting projects, especially those relat
 
 ---
 
-![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiragBhoyar14&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragBhoyar14&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChiragBhoyar14&show_icons=true&theme=radical" alt="Chirag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragBhoyar14&layout=compact&theme=radical" alt="Top Langs">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragBhoyar14&theme=radical" alt="GitHub Streak">
+</p>
