@@ -6,12 +6,6 @@ I’m a passionate .NET developer with expertise in ASP.NET, ADO.NET, Windows Se
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF">
-</p>
-
----
-
 ### 💻 Tech Stack:
 
 <p align="center">
